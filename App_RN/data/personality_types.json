@@ -1,0 +1,141 @@
+{
+  "MBTI": {
+    "INTJ": {
+      "name": "Kiến Trúc Sư",
+      "description": "Người có tư duy chiến lược và tưởng tượng, luôn có kế hoạch cho mọi thứ.",
+      "imageUrl": "https://i.pinimg.com/564x/f9/03/00/f90300ffcf63b3f0e6228a6f40940c34.jpg"
+    },
+    "INTP": {
+      "name": "Nhà Tư Tưởng",
+      "description": "Người tư duy sâu sắc, có thiên hướng tìm hiểu và khám phá các ý tưởng mới.",
+      "imageUrl": "https://careerfinder.vn/wp-content/uploads/2016/12/intp-300x300.png"
+    },
+    "ENTJ": {
+      "name": "Lãnh Đạo",
+      "description": "Quyết đoán, tự tin và luôn sẵn sàng lãnh đạo đội ngũ.",
+      "imageUrl": "https://i.pinimg.com/originals/86/6f/25/866f255f0476196c50cca8cc445a4ef9.png"
+    },
+    "ENTP": {
+      "name": "Nhà Sáng Tạo",
+      "description": "Người sáng tạo, yêu thích thử nghiệm và khám phá những ý tưởng mới lạ.",
+      "imageUrl": "https://i.pinimg.com/474x/70/61/92/706192240fc2aac137dacbfd8c2a6e5f.jpg"
+    },
+    "INFJ": {
+      "name": "Người Cố Vấn",
+      "description": "Đam mê giúp đỡ người khác, có trực giác và khả năng hiểu sâu sắc về con người.",
+      "imageUrl": "https://w7.pngwing.com/pngs/396/737/png-transparent-infj-personality-type-myers-briggs-type-indicator-personality-test-infj-fictional-character-individual-advocate.png"
+    },
+    "INFP": {
+      "name": "Người Hòa Giải",
+      "description": "Dịu dàng, thấu cảm, luôn sẵn sàng hỗ trợ và giúp đỡ người khác.",
+      "imageUrl": "https://i.pinimg.com/originals/7d/60/b1/7d60b1b39b5e8c3c6788cfb38a00f768.png"
+    },
+    "ENFJ": {
+      "name": "Người Cổ Vũ",
+      "description": "Lạc quan, giàu tình cảm và truyền cảm hứng cho mọi người xung quanh.",
+      "imageUrl": "https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png"
+    },
+    "ENFP": {
+      "name": "Người Truyền Cảm Hứng",
+      "description": "Sáng tạo, nhiệt tình và truyền cảm hứng mạnh mẽ cho người khác.",
+      "imageUrl": "https://i.pinimg.com/originals/6a/5a/d0/6a5ad07acfec36e2df85195ff47afb00.png"
+    },
+    "ISTJ": {
+      "name": "Người Hành Động",
+      "description": "Cẩn thận, tuân thủ quy tắc, đáng tin cậy và thực tế.",
+      "imageUrl": "https://i.pinimg.com/474x/bd/80/22/bd80229dd7d6290c9b2b98e6326a5b52.jpg"
+    },
+    "ISFJ": {
+      "name": "Người Bảo Vệ",
+      "description": "Chu đáo, tận tâm, luôn chăm lo cho người xung quanh.",
+      "imageUrl": "https://i.pinimg.com/474x/7b/e8/4b/7be84bfa583fd9c088b9a39c37c8b128.jpg"
+    },
+    "ESTJ": {
+      "name": "Người Quản Lý",
+      "description": "Thực tế, đáng tin cậy và có năng lực quản lý xuất sắc.",
+      "imageUrl": "https://i.pinimg.com/474x/03/67/9e/03679e33c1dfc9cefd29d93f467541df.jpg"
+    },
+    "ESFJ": {
+      "name": "Người Hòa Nhập",
+      "description": "Quan tâm đến người khác, thích sự hài hòa và giao tiếp.",
+      "imageUrl": "https://i.redd.it/ve7cy1hsivj71.jpg"
+    },
+    "ISTP": {
+      "name": "Nhà Thám Hiểm",
+      "description": "Thực tế, nhạy bén và sẵn sàng giải quyết vấn đề một cách nhanh chóng.",
+      "imageUrl": "https://i.pinimg.com/474x/53/33/32/533332eb28b771dc09e975d79baba988.jpg"
+    },
+    "ISFP": {
+      "name": "Người Nghệ Sĩ",
+      "description": "Nhạy cảm, có thiên hướng nghệ thuật và yêu thích sự tự do.",
+      "imageUrl": "https://i.pinimg.com/originals/81/89/d0/8189d0e91ec4045d05384347a13a757b.png"
+    },
+    "ESTP": {
+      "name": "Người Hành Động",
+      "description": "Thích thử thách, sống hết mình và tập trung vào hiện tại.",
+      "imageUrl": "https://i.pinimg.com/474x/0f/99/57/0f9957d4c620ff1acd90e44d42743693.jpg"
+    },
+    "ESFP": {
+      "name": "Người Biểu Diễn",
+      "description": "Sôi nổi, lạc quan và thích tạo niềm vui cho người xung quanh.",
+      "imageUrl": "https://i.pinimg.com/originals/52/29/8d/52298d48c02c395a6039b85fad91228d.png"
+    }
+  },
+  "DISC": {
+    "D": {
+      "name": "Người chiến thắng",
+      "description": "Họ là những người có ý chí mạnh mẽ, tự chủ và độc lập. Họ sẵn sàng chấp nhận rủi ro, và rất có thể trong tương lai, họ sẽ trở thành một nhà lãnh đạo xuất chúng.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "DC": {
+      "name": "Người thách thức",
+      "description": "Kiểu nhân cách DC có tính thống trị (D) bị ảnh hưởng bởi sự tận tâm (C). Do đó, họ có xu hướng trở thành nhà lãnh đạo tập trung vào thách thức, kết quả và độ chính xác.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "DI": {
+      "name": "Người tìm kiếm",
+      "description": "Tính cách kiểu DI có xu hướng hành động và nhiệt tình. Họ có xu hướng mang đến sự sáng tạo và đổi mới cho môi trường làm việc, luôn tìm kiếm những ý tưởng mới mẻ.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "ID": {
+      "name": "Người Chấp nhận rủi ro",
+      "description": "Tương tự như nhóm tích cách DI, những người rơi thuộc nhóm ID có đặc điểm là người thích mạo hiểm và táo bạo.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "I": {
+      "name": "Người Nhiệt tình",
+      "description": "Những người có tính cách này thường năng nổ và hòa đồng. Họ là những người có thể nghĩ đến điều tích cực ngay cả trong tình huống khó khăn.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "IS": {
+      "name": "Người Bạn",
+      "description": "IS là những người biết lắng nghe và đồng cảm. Mục tiêu chính của họ là thúc đẩy người khác và giúp họ phát triển trong khả năng của mình.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "SI": {
+      "name": "Người cộng tác",
+      "description": "SI là sự kết hợp giữa sự ổn định (S) với ảnh hưởng (I). Họ xuất sắc trong việc gắn kết các thành viên trong nhóm lại với nhau để làm việc hiệu quả hơn.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "S": {
+      "name": "Người hòa giải",
+      "description": "Nhóm này thường đóng vai trò là cầu nối giữa người quản lý và đồng nghiệp của họ, bởi vì họ có khả năng hiểu tất cả các khía cạnh của một tình huống.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "SC": {
+      "name": "Kỹ thuật viên",
+      "description": "Tính cách SC kết hợp sự kiên định (S) với sự tận tâm (C). Họ đặc biệt thích lập kế hoạch và lập ra các quy tắc, hướng dẫn.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "C": {
+      "name": "Nhà phân tích",
+      "description": "Họ là những người theo chủ nghĩa hoàn hảo. Nhà phân tích có xu hướng rất logic và không dễ bị cảm xúc chi phối.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    },
+    "CS": {
+      "name": "Người làm nền tảng",
+      "description": "Tính cách CS nhấn mạnh đến sự tận tâm (C) và chịu ảnh hưởng của tính ổn định (S). Họ là người rất có trách nhiệm.",
+      "imageUrl": "https://maisonoffice.vn/wp-content/uploads/2023/09/2-disc-la-gi.jpg"
+    }
+  }
+}
